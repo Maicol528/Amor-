@@ -6,8 +6,8 @@ let fontSize = 2
 let messages = [
   'Estas segura?',
   'Piensalo bien',
-  'Piensalo muy bien',
-  'Piensalo',
+  'Es tu ultima respuesta?',
+  'mira el otro boton esta bonito',
   'Mira el otro botón'
 ]
 
